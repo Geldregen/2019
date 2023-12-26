@@ -6,7 +6,7 @@
 	--font: 'figtree';
 
 	/* top left corner text */
-	--corner-text: 'Geldregen';
+	--corner-text: 'GELDREGEN';
 
 	/* color of online status dot, change to #23a55a for default green */
 	--online-indicator: var(--accent-2);
